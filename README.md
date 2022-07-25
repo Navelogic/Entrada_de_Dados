@@ -1,2 +1,1 @@
-# Entrada_de_Dados
- Estudo de entrada de dados no Java
+Entrada de dados String e int com tratamento de exceções.
